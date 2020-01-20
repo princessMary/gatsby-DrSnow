@@ -1,0 +1,10 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.layout {
+    lost-center: $layout-width;
+}
+
+.Logo {
+  background-image: url(./photo.jpg);
+}
